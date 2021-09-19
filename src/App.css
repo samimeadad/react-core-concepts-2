@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.user{
+  background-color: lightgoldenrodyellow;
+  margin: auto;
+  width: 50%;
+  margin-top: 20px;
+  padding: 20px;
+  border: 3px solid red;
+  border-radius: 25px;
+}
